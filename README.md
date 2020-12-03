@@ -4,3 +4,5 @@
 * See Report.pdf file to read a full report and analysis of the project. The vast majority of the code is written by me using tensorflow. Large amounts of the report were written by my teammates using LaTex for typesetting.
 
 ## Dataset
+* The dataset used can be found [here](https://www.kaggle.com/uciml/human-activity-recognition-with-smartphones).
+* The number of classes used was reduced to three (walking, sitting, and standing).
